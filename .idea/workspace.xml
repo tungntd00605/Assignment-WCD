@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5801e1ec-aaeb-4c06-9e0a-6eaf5c2d2511" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TryHarder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TryHarder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TryHarder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TryHarder/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TryHarder/src/main/resource/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TryHarder/src/main/resource/application.properties" afterDir="false" />
@@ -62,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/view/user-detail.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+            <state relative-caret-position="323">
+              <caret line="25" column="76" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="25" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -86,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+            <state relative-caret-position="238">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding>
                 <element signature="e#332#338#0#HTML" expanded="true" />
                 <element signature="e#462#468#0#HTML" expanded="true" />
@@ -143,7 +144,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -332,7 +333,7 @@
     <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="45299143711" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564888839392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564889083472" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hetforrent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -479,12 +480,12 @@
       <updated>1564830860113</updated>
       <workItem from="1564830866525" duration="14002000" />
       <workItem from="1564878125902" duration="2897000" />
-      <workItem from="1564882005336" duration="6768000" />
+      <workItem from="1564882005336" duration="7014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23667000" />
+    <option name="totallyTimeSpent" value="23913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -670,13 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/view/user-detail.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/appengine-web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -719,10 +713,17 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="ResourceBundle" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/user-detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="76" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="25" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
             <element signature="e#332#338#0#HTML" expanded="true" />
             <element signature="e#462#468#0#HTML" expanded="true" />
